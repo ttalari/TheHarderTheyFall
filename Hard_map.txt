@@ -1,0 +1,11 @@
+|||LeaveTown|
+||Stable|MansionHouse|
+||Ranch|Barn||Hotel||Salon
+||Ranch||Bank||Post||Church
+||Barn||Post||Church
+Salon|Church|CaptiveRoom|Hotel|Sheriff
+||Ranch|Barn||Hotel||Salon
+||Barn||Hotel||Church||Salon
+||Ranch||Bank||Post||Church
+||Stable|MansionHouse|
+|||LeaveTown|

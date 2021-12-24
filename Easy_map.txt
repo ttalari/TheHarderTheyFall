@@ -1,0 +1,3 @@
+|||LeaveTown|
+||Stable|MansionHouse|
+Church|CaptiveRoom|Hotel|Sheriff
